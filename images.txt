@@ -1,2 +1,1 @@
 ghcr.io/binary-husky/gpt_academic_with_latex:master
-ghcr.io/binary-husky/gpt_academic_nolocal:frontier
